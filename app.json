@@ -4,7 +4,7 @@
     "slug": "TicketVault",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./images/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./images/splash.png",
